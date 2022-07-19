@@ -7,7 +7,7 @@ This lab details usage of self-managed Azure Data Explorer KafkaConnect sink con
 
 ## 1. Pictorial overview of the lab
 
-![RG](images/E2E.png)
+![RG](images/Capture1.png)
 <br>
 <br>
 <hr>
